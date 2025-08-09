@@ -1,4 +1,4 @@
-# 皮肤上传 API
+# BlessingSkin皮肤上传 API
 
 一个基于 PHP 的自实现内部皮肤批量上传API
 
